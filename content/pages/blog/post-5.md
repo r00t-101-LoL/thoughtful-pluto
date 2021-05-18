@@ -1,5 +1,5 @@
 ---
-title: How to Set Team Goals The Right Way
+title: How to Set Team Goals The Right Way. What's the strategy
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
