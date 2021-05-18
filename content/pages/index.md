@@ -187,7 +187,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Ready to get started?
-    content: Start achieving your goals today!
+    content: >
+      Get the best tech that gives the biggest investors the money they need for
+      the leisure they deserve
     actions:
       - label: Try for free
         url: /thank-you
