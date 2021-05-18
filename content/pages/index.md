@@ -205,7 +205,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Trade Blade AI
-  description: The preview of the Startup theme
+  description: Jump into your rocket ship!
   extra:
     - name: 'og:type'
       value: website
