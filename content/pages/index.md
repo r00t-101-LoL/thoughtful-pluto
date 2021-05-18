@@ -148,10 +148,10 @@ sections:
         image_has_padding: true
       - title: Activity streak
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You get the most hot off the press information, then once the AI knows
+          what you would do with that information, it can ask you or just take
+          action in compliance with whatever your risk tolerance may be
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
