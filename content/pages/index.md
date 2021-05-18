@@ -79,7 +79,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
+      - title: Optimize Your Trading Strategy for Maximum Performance
         content: >+
 
 
