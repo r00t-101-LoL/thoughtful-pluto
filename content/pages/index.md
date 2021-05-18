@@ -121,10 +121,12 @@ sections:
     grid_items:
       - title: What to Do
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Decide how you would invest in the stock market if you had the option
+          to never miss a buy or sell signal again. What kind of investor are
+          you? Would deep analytics or sentiment aid in your process? There is a
+          customization options for each person to design their idea of the
+          perfect trading tool
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
