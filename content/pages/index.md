@@ -41,7 +41,9 @@ sections:
   - type: features_section
     title: What is Trade Blade?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: >-
+          Smart View of the Stock Market Globally, With Signals hit by the Trade
+          Blade AI... You Need to Improve Yourself, The Platform Does the Rest
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
