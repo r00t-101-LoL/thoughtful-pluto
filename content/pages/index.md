@@ -135,9 +135,11 @@ sections:
         image_has_padding: true
       - title: What not to do
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Stop spending every moment of every day looking at a phone or screen
+          waiting for the right movement markers. What would you do if you could
+          still keep up and make the same money with none of the work after 30
+          days?
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
