@@ -80,9 +80,16 @@ sections:
         media_position: left
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >+
+
+
+          Overcome the challenges of watching stock indicators waiting for the
+          right trend to come along. Trade Blade can see the worlds market in
+          real time and simply deliver what matters to you, or you are welcome
+          to chat for inspiration and strategy!
+
+
+
         actions:
           - label: Learn More
             url: /thank-you
