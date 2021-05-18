@@ -42,7 +42,7 @@ sections:
     title: What is Trade Blade?
     features:
       - title: >-
-          Smart View of the Stock Market Globally, With Signals hit by the Trade
+          Smart View of the Stock Market Globally, Hit You're Mark With Trade
           Blade AI... You Need to Improve Yourself, The Platform Does the Rest
         content: >-
           With Your Goal, you can create a dashboard with data about your
