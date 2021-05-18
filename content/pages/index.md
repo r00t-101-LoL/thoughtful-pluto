@@ -160,10 +160,11 @@ sections:
         image_has_padding: true
       - title: Your Progress
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Day to Day, Month to Month, whatever the time context you view for
+          success, you will be able to see visually how well you are doing
+          against yourself and your team. Reach out to the community! Everyone
+          is more than happy to tell you what makes them so smart ; )
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
