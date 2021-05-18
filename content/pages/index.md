@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tradeblade AI
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Know Your Goals, Hit Your Goals'
     actions:
       - label: Try for free
         url: /pricing
