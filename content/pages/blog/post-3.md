@@ -1,5 +1,7 @@
 ---
-title: The Benefits and Value of Goal Setting
+title: >-
+  Sentiment Moment with our resident teacher, why does emotion matter to your
+  money?
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
